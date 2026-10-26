@@ -10,7 +10,7 @@ Hier staat hoe je als game manager werkt in het Control Panel van LearnStrike: t
 
 **Via je AI-assistent (ChatGPT, Claude of een andere).** Geef je assistent de link naar deze kennisbank en stel je vraag. Bijvoorbeeld:
 
-> Gebruik de LearnStrike kennisbank op https://github.com/4GrowthBV/learnstrike-kennisbank. Lees eerst AGENTS.md en index.md. Mijn vraag: hoe kopieer ik een campagne naar een andere organisatie?
+> Gebruik de LearnStrike kennisbank op https://github.com/4GrowthBV/4growth-game-manager-guide. Lees eerst AGENTS.md en index.md. Mijn vraag: hoe kopieer ik een campagne naar een andere organisatie?
 
 De assistent hoort te antwoorden uit de kaarten en het kaartnummer te noemen (bijvoorbeeld TK-08), zodat je het zelf kunt nalezen.
 
@@ -44,7 +44,7 @@ How to work in the LearnStrike Control Panel as a game manager: one task card pe
 
 **Ask your AI assistant.** Give it the link to this knowledge base and ask your question, for example:
 
-> Use the LearnStrike knowledge base at https://github.com/4GrowthBV/learnstrike-kennisbank. Read AGENTS.md and index.md first. My question: how do I copy a campaign to another organisation?
+> Use the LearnStrike knowledge base at https://github.com/4GrowthBV/4growth-game-manager-guide. Read AGENTS.md and index.md first. My question: how do I copy a campaign to another organisation?
 
 The assistant should answer from the cards and name the card number (for example TK-08), so you can check it yourself.
 
